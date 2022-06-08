@@ -1,3 +1,3 @@
 # Adding a readme file
 
-<img src =" ">
+<img src =" dumbbell.jpg">
